@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Thomas Kyle / Personal Site"
 title_separator          : "-"
 name                     : &name "Thomas Kyle"
 description              : &description "I am a first year Master's Student at the MIT Operations Research Center. I am advised by Professor Retsef Levi. Prior to MIT, I graduated from the United States Air Force Academy with a BS in Operations Research and Applied Mathematics."
 url                      : https://tomkyle21.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "tomkyle21.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  avatar           : "HeadShot1.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
